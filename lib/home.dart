@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.black,
         title: Text(
-          'H A N Z I F Y',
+          'H A NzI F Y',
           style: GoogleFonts.montserrat(
             fontSize: 15,
             color: Colors.white,
